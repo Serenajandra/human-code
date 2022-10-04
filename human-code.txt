@@ -1,0 +1,22 @@
+Comprare qualcosa su Amazon 
+Il regalo perfetto
+Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacerebbe sorprenderla, so che le piaceva tanto quella lampada da tavolo così particolare, però la consegna non è Prime e non arriverebbe mai in tempo! Potrei optare per una bella stilografica ma sicuramente sforo il budget, forse è meglio optare per un buon libro: un classico ma so che con lei vado sul sicuro!
+
+
+dati:
+1. cliente(silvia)
+2.articolo
+3. tipo di consegna
+4- budget
+
+
+1. Entrare Amazon
+2. cercare articolo
+    a.Se li piace passa al p.3
+    b. se non li piace torna al p.2
+3. controllo tipo di consegna
+    a. se prima prosegue al punto 4
+    b. se non è prima torna al p.2
+4. controllo budget
+    a. se irentra nel budget prosegue al punto 5 se non rientra torna al punto 2
+5. acquisto
